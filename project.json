@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.1",
+  "name": "Arcanoid",
+  "id": "0d13a22c-2a2d-4170-9725-6412cfdd8991",
+  "isNew": false
+}
